@@ -92,7 +92,7 @@
         </plugin>
 
         <plugin>
-          <artifactId>maven-compiler-plugin</artifactId>
+          <artifactId>maven-plugin-api-3.9.6</artifactId>
           <version>3.9.6</version>
         </plugin>
 
